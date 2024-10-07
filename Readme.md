@@ -1,6 +1,6 @@
 AJS_Container-Map
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/r6yftosmutiy03je?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-container-map)
 ---
 ## Домашнее задание к лекции «Контейнеры»
 
